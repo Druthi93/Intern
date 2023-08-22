@@ -1,0 +1,23 @@
+body{
+    width: fit-content;
+    max-width: fit-content;
+}
+.h1{
+    width: 35%;
+}
+.first{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
+}
+.a1{
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
+.a2,.a3,.a4,.a5,.a6,.a7,.a8{
+    display: inline-block;
+    margin-left: 5%;
+    width: fit-content;
+    height: fit-content;
+}
